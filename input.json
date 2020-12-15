@@ -1,0 +1,67 @@
+{
+  "document": "Договор 1575",
+  "result": null,
+  "accepting": [
+    {
+      "condition": "or",
+      "step": 1,
+      "result": null,
+      "users": [
+        {
+          "id": 1,
+          "name": "Иванов",
+          "result": null
+        },
+        {
+          "id": 2,
+          "name": "Петров",
+          "result": null
+        },
+        {
+          "id": 3,
+          "name": "Сидоров",
+          "result": null
+        }
+      ]
+    },
+    {
+      "condition": "and",
+      "step": 2,
+      "result": null,
+      "users": [
+        {
+          "id": 4,
+          "name": "Киримов",
+          "result": null
+        },
+        {
+          "id": 5,
+          "name": "Сидоров",
+          "result": null
+        }
+      ]
+    },
+    {
+      "condition": "or",
+      "step": 3,
+      "result": null,
+      "users": [
+        {
+          "id": 6,
+          "name": "Иванченко",
+          "result": null
+        },
+        {
+          "id": 7,
+          "name": "Серченко",
+          "result": null
+        },
+        {
+          "id": 8,
+          "name": "Иванов",
+          "result": null
+        }
+      ]
+    }
+  ]
+}
